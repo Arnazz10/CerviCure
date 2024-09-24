@@ -1,7 +1,13 @@
-torch
 scikit-learn
 scikit-image
-ultralytics
 locale
 os
 streamlit
+ultralytics
+google-colab
+torch
+numpy
+opencv-python
+matplotlib
+Pillow
+pyyaml
