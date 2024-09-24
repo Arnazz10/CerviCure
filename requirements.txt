@@ -1,6 +1,5 @@
 scikit-learn
 scikit-image
-locale
 os
 streamlit
 ultralytics
