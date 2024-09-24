@@ -1,0 +1,7 @@
+torch
+scikit-learn
+scikit-image
+ultralytics
+locale
+os
+streamlit
