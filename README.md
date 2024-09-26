@@ -1,6 +1,9 @@
 <h1 align = "center"> CERVICURE </h1> 
 
-<img align ="center" src="Cervicure.png">
+<p align="center">
+<img src="Cervicure.png" alt="Cervicure">
+</p>
+
 
 🔍 What is Cervical Cancer?
 
