@@ -1,4 +1,6 @@
-<h1 align = "center"> CERVICURE </h1>
+<h1 align = "center"> CERVICURE </h1> 
+
+<img src="C:\Users\User\Downloads\Screenshot_2024-09-26_002448-removebg-preview.png">
 
 🔍 What is Cervical Cancer?
 
