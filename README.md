@@ -1,7 +1,7 @@
 <h1 align = "center"> CERVICURE </h1> 
 
 <p align="center">
-<img src="Cervicure.png" alt="Cervicure">
+<img src="CerviCure.png" alt="Cervicure">
 </p>
 
 
